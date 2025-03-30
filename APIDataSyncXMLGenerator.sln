@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIDataSyncXMLGenerator", "APIDataSyncXMLGenerator\APIDataSyncXMLGenerator.csproj", "{B8A98481-34EF-4BCB-A807-B170739EB333}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8A98481-34EF-4BCB-A807-B170739EB333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A98481-34EF-4BCB-A807-B170739EB333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A98481-34EF-4BCB-A807-B170739EB333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A98481-34EF-4BCB-A807-B170739EB333}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AA766C1-C52C-43B4-9F73-60436DF49D7D}
+	EndGlobalSection
+EndGlobal
